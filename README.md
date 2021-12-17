@@ -1,7 +1,9 @@
-### Hi there 👋
-[![Kiel Chang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kielchang&theme=dracula)]
+
+<img src="https://github-readme-stats.vercel.app/api?username=kielchang&theme=dracula&bg_color=16222A,3A6073,16222A&title_color=fff&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielchang&layout=compact&theme=dracula&bg_color=16222A,3A6073,16222A&title_color=fff&hide_border=true" />
 
 <!--
+### Hi there 👋
 **kielchang/kielchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
